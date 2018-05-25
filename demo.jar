@@ -1,6 +1,10 @@
 class Demo
 {
-p.s.v.main(...)
+	void getdata()
+	{
+	....
+	}
+	p.s.v.main(...)
 	{
 	  s.o.p("Hello World")
 	}
